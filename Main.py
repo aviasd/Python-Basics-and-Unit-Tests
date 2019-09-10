@@ -1,8 +1,3 @@
-
-# HW1 - Python
-# Aviad Malahci 314083361
-# Hadar Bonavida 312545353
-
 # question 1: sum nested list of integers
 def ques1_ver1(arr):
     return sum(sum(arr, []))
